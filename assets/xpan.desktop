@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=XPAN
+Type=Application
+Icon=~/XPAN/assets/desktop-logo.png
+Exec=sh ~/XPAN/scripts/run.sh
+Terminal=true
+Comment=XPAN
+Categories=Office;
+GenericName=XPAN
+StartupNotify=true
+X-KeepTerminal=true
+Path=~/XPAN
