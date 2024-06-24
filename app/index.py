@@ -16,7 +16,6 @@ if __name__ == "__main__":
     app.title("[Pi] X-PAN")
 
     app.after(10, lambda: app.wm_attributes("-fullscreen", "true"))
-    # app.attributes("-fullscreen", "true")
 
     app.columnconfigure(0, weight=1)
     app.rowconfigure(0, weight=1)
